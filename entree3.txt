@@ -1,0 +1,2 @@
+A = 20; B = 10;
+if A == 20 then C = A*2; else B = B+1 ; fi
